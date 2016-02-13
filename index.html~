@@ -4,12 +4,7 @@
 <link rel="stylesheet" href='./sandstone-theme.css'/>
 </head>
 <body>
-	<div class="navbar navbar-default navbar-static-top">
-		<div class="container">
-			<div class="navbar-header">
-			</div>
-		</div>
-	</div>
+	<div ng-include="&quot;components/navbar/navbar.html&quot;"></div>
 	<header id="banner" class="hero-unit">
 	  <div class="container">
 	    <div ng-hide="isLoggedIn()">
