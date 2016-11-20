@@ -2,8 +2,13 @@ body {
   background-color: rgb(234, 249, 252);
 }
 
-#main, #events {
+#main, #events, #west {
   background-color: rgb(255, 255, 255);
+}
+
+#west {
+  margin-top: 1%; 
+  margin-bottom: 5%;
 }
 
 footer {
@@ -18,6 +23,7 @@ footer span {
   margin-left: 40%;
   
 }
+ 
 .navbar {
  background-color: rgb(16, 90, 165);
 }
@@ -45,12 +51,14 @@ footer span {
   margin: 20px 0;
 }
 
-
-
 #buy-tickets a:hover {
   color: rgb(230, 232, 142);
 }
 
 #buy-tickets:hover {
   background-color: rgb(27, 121, 214);
+}
+
+#bball {
+  margin: 0 -2% 0 0
 }
