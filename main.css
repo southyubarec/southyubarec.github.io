@@ -1,13 +1,18 @@
 body {
-  background-color: rgb(234, 249, 252);
+  background-color: rgb(244, 253, 255);
 }
 
 #main, #events, #west {
   background-color: rgb(255, 255, 255);
+  border: 5px solid transparent;
+  border-radius: 15px;
+}
+
+#west, #events {
+  margin-top: 1%; 
 }
 
 #west {
-  margin-top: 1%; 
   margin-bottom: 5%;
 }
 
@@ -30,11 +35,6 @@ footer span {
 
 .navbar-header h1 {
  color: rgb(234, 249, 252)
-}
-
-#facebook {
-  width: 150px;
-  height: 37px;
 }
 
 #buy-tickets {
