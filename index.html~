@@ -62,20 +62,19 @@
 	<h4><a href="./files/raffle-registry.pdf" download>Raffle Registry</a></h4>
 
 	</div><!--end col-lg-9-->
-      	<div id="events" class="col-lg-8 col-lg-offset-1">
-                <img src="./basketball.jpeg"/>
-                <h2>Wheatland Youth Basketball</h3>
-                <h3>Boy and Girls, grades 3rd to 8th.</h3>
-                <h3>Use this registration form to print the form or fill it in online and email to mainstreetwheat@att.net.</h3>
-                <h3><a href="./files/bball-registration.pdf" download>Basketball Registration Form</a></h3>
-                <h3>Please direct questions to The City Grill, 633-0140</h3>
-        </div>
 	<div id="events" class="col-lg-8 col-lg-offset-1">
-        	<img src="./wildwest.jpeg"/>
-                <h4>Thank you to our 2016 sponsors and attendees!</h4>
-                <h3>Event partners were Wheatland Rec Basketball, FFA, Wheatland Little League, Senior Grad Night, and the Rainbow Girls.</h3>
-                <h3>Stay tuned for information on the <b>2017</b> event!</h3>
+	<img src="./wildwest.jpeg"/>
+	<h2>Wheatland Community Center</h2>
+	<h4>Saturday, April 30, 2016</h4>
+	<h4>Buffet Dinner @ 6:30</h4>
+	<h4>Bingo and Gaming begins @ 6:00</h4>
+	<h4>Live Auction @ 9:00</h4>
+	<h4>Advance Tickets $25</h4>
+	<h4>At the door $35</h4>
+	<a href="http://www.payit2.com/collect-page/80614" target="_blank"><div id="buy-tickets">
+	  <p>Buy Tickets</p>
 	</div>
+        </a>
         <a href="https://www.facebook.com/events/1508950566080025/" target="_blank"><img id="facebook" src="facebook.png"></a>
 	</div><!--end col-lg-3-->
 	
